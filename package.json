@@ -1,0 +1,9 @@
+{
+  "name": "com.devmastery.nativeshare",
+  "displayName": "Native Share",
+  "version": "1.4.3",
+  "documentationUrl": "https://github.com/devmastery/UnityNativeShare",
+  "changelogUrl": "https://github.com/devmastery/UnityNativeShare/releases",
+  "licensesUrl": "https://github.com/devmastery/UnityNativeShare/blob/master/LICENSE.txt",
+  "description": "This plugin helps you natively share files (images, videos, documents, etc.) and/or plain text on Android & iOS. A ContentProvider is used to share the media on Android."
+}
